@@ -9,15 +9,17 @@ I'm passionate about building software that solves real-world problems. I'm curr
 - HTML5
 - CSS3
 - JavaScript
+- Python
 - React
 - Flutter
 - Dart
 - Git
 - GitHub
-- Firebase (Learning)
+
 
 ## 🌱 Currently Learning
 
+- Firebase
 - Software Engineering Best Practices
 - UI/UX Design
 - System Design
